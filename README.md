@@ -43,5 +43,5 @@ This project is licensed under the MIT License.
 
 Feel free to customize and adapt the project according to your needs. If you encounter any issues or have suggestions for improvement, please create an issue in the repository.
 
-Happy face recognizing and attendance tracking!
+
 The attendance records will be stored in the attendance.csv file.
