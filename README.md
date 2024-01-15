@@ -1,5 +1,6 @@
 # Face-Recognition-Attendance-Project
 Open_CV Project
+
 Welcome to the Face Recognition with Attendance Project! This project utilizes face recognition technology to automate the attendance process. It is implemented using Jupyter Notebook and relies on a CSV file (Microsoft Excel compatible) for storing the attendance records.
 
 Requirements
